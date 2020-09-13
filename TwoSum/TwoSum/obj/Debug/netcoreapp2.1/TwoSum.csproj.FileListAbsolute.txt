@@ -1,0 +1,10 @@
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\bin\Debug\netcoreapp2.1\TwoSum.deps.json
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\bin\Debug\netcoreapp2.1\TwoSum.runtimeconfig.json
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\bin\Debug\netcoreapp2.1\TwoSum.runtimeconfig.dev.json
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\bin\Debug\netcoreapp2.1\TwoSum.dll
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\bin\Debug\netcoreapp2.1\TwoSum.pdb
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\obj\Debug\netcoreapp2.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\obj\Debug\netcoreapp2.1\TwoSum.AssemblyInfoInputs.cache
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\obj\Debug\netcoreapp2.1\TwoSum.AssemblyInfo.cs
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\obj\Debug\netcoreapp2.1\TwoSum.dll
+C:\Users\l96on\Desktop\Coding\CodeWars\6kyu\TwoSum\TwoSum\obj\Debug\netcoreapp2.1\TwoSum.pdb
