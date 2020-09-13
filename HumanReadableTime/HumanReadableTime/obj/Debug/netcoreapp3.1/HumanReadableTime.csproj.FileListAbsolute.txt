@@ -1,0 +1,13 @@
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\bin\Debug\netcoreapp3.1\HumanReadableTime.exe
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\bin\Debug\netcoreapp3.1\HumanReadableTime.deps.json
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\bin\Debug\netcoreapp3.1\HumanReadableTime.runtimeconfig.json
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\bin\Debug\netcoreapp3.1\HumanReadableTime.runtimeconfig.dev.json
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\bin\Debug\netcoreapp3.1\HumanReadableTime.dll
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\bin\Debug\netcoreapp3.1\HumanReadableTime.pdb
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.csprojAssemblyReference.cache
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.AssemblyInfoInputs.cache
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.AssemblyInfo.cs
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.csproj.CoreCompileInputs.cache
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.dll
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.pdb
+C:\Users\l96on\Desktop\Codewars Katas\HumanReadableTime\HumanReadableTime\obj\Debug\netcoreapp3.1\HumanReadableTime.genruntimeconfig.cache
