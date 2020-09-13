@@ -1,0 +1,13 @@
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\bin\Debug\netcoreapp3.1\HexagonBeam_MaxSum.exe
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\bin\Debug\netcoreapp3.1\HexagonBeam_MaxSum.deps.json
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\bin\Debug\netcoreapp3.1\HexagonBeam_MaxSum.runtimeconfig.json
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\bin\Debug\netcoreapp3.1\HexagonBeam_MaxSum.runtimeconfig.dev.json
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\bin\Debug\netcoreapp3.1\HexagonBeam_MaxSum.dll
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\bin\Debug\netcoreapp3.1\HexagonBeam_MaxSum.pdb
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.AssemblyInfoInputs.cache
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.AssemblyInfo.cs
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.dll
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.pdb
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.genruntimeconfig.cache
+C:\Users\l96on\source\repos\HexagonBeam_MaxSum\HexagonBeam_MaxSum\obj\Debug\netcoreapp3.1\HexagonBeam_MaxSum.csprojAssemblyReference.cache
