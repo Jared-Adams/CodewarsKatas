@@ -1,0 +1,12 @@
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\bin\Debug\netcoreapp3.1\SumOfPositive.exe
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\bin\Debug\netcoreapp3.1\SumOfPositive.deps.json
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\bin\Debug\netcoreapp3.1\SumOfPositive.runtimeconfig.json
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\bin\Debug\netcoreapp3.1\SumOfPositive.runtimeconfig.dev.json
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\bin\Debug\netcoreapp3.1\SumOfPositive.dll
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\bin\Debug\netcoreapp3.1\SumOfPositive.pdb
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\obj\Debug\netcoreapp3.1\SumOfPositive.AssemblyInfoInputs.cache
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\obj\Debug\netcoreapp3.1\SumOfPositive.AssemblyInfo.cs
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\obj\Debug\netcoreapp3.1\SumOfPositive.csproj.CoreCompileInputs.cache
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\obj\Debug\netcoreapp3.1\SumOfPositive.dll
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\obj\Debug\netcoreapp3.1\SumOfPositive.pdb
+C:\Users\l96on\Desktop\Codewars Katas\SumOfPositive\SumOfPositive\obj\Debug\netcoreapp3.1\SumOfPositive.genruntimeconfig.cache
